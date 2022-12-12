@@ -1,0 +1,4 @@
+RULES OF CONNECT FOUR:
+- A two-player game to achieve a four in a row
+- A player can place a chip into a column if the column is not full
+- If the board is full then the result is a tie
